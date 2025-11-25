@@ -21,17 +21,7 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me"
     },
-    "wolongzyw.com": {
-      "name": "🎬卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "detail": "https://wolongzyw.com"
-    },
-    "ikunzy.com": {
-      "name": "🎬iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "detail": "https://ikunzy.com"
-    },
-    "lzizy.net": {
+         "lzizy.net": {
       "name": "🎬量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net"
@@ -56,12 +46,7 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "collect.wolongzyw.com": {
-      "name": "🎬卧龙影视",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "detail": "https://collect.wolongzyw.com"
-    },
-    "jszyapi.com": {
+        "jszyapi.com": {
       "name": "🎬极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
       "detail": "https://jszyapi.com"
@@ -126,16 +111,7 @@
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com"
     },
-    "p2100.net": {
-      "name": "🎬飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
-    "api.ukuapi88.com": {
-      "name": "🎬U酷影视",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://www.ukuzy.com"
-    },
+        
     "api.guangsuapi.com": {
       "name": "🎬光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -161,12 +137,7 @@
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
     },
-    "91jpzyw.com": {
-      "name": "🔞91-精品-",
-      "api": "https://91jpzyw.com/api.php/provide/vod",
-      "detail": "https://91jpzyw.com"
-    },
-    "lbapiby.com": {
+        "lbapiby.com": {
       "name": "🔞--AIvin-",
       "api": "http://lbapiby.com/api.php/provide/vod",
       "detail": "http://lbapiby.com"
@@ -210,6 +181,11 @@
       "name": "🔞桃花资源",
       "api": "https://thzy1.me/api.php/provide/vod",
       "detail": "https://thzy8.me"
+    },
+     "caiji.semaozy.net": {
+      "name": "🔞色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "detail": "https://caiji.semaozy.net"
     },
     "www.yyzywcj.com": {
       "name": "🔞优优资源",
@@ -292,6 +268,11 @@
       "name": "热门",
       "type": "movie",
       "query": "热门"
+    },
+    {
+      "name": "武侠",
+      "type": "movie",
+      "query": "武侠"
     },
     {
       "name": "最新",
@@ -448,37 +429,7 @@
       "type": "movie",
       "query": "西部"
     },
-     {
-      "name": "中文字幕",
-      "type": "movie",
-      "query": "中文字幕"
-    },
-    {
-      "name": "明星写真",
-      "type": "movie",
-      "query": "明星写真"
-    },
-    {
-      "name": "AV解说",
-      "type": "movie",
-      "query": "AV解说"
-    },
-    {
-      "name": "黑料吃瓜",
-      "type": "movie",
-      "query": "黑料吃瓜"
-    },
-    {
-      "name": "网红主播",
-      "type": "movie",
-      "query": "网红主播"
-    },
-    {
-      "name": "网友自拍",
-      "type": "movie",
-      "query": "网友自拍"
-    },
-    {
+        {
       "name": "动漫",
       "type": "tv",
       "query": "日本动画"
