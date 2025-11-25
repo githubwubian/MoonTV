@@ -448,6 +448,36 @@
       "type": "movie",
       "query": "西部"
     },
+     {
+      "name": "中文字幕",
+      "type": "movie",
+      "query": "中文字幕"
+    },
+    {
+      "name": "明星写真",
+      "type": "movie",
+      "query": "明星写真"
+    },
+    {
+      "name": "AV解说",
+      "type": "movie",
+      "query": "AV解说"
+    },
+    {
+      "name": "黑料吃瓜",
+      "type": "movie",
+      "query": "黑料吃瓜"
+    },
+    {
+      "name": "网红主播",
+      "type": "movie",
+      "query": "网红主播"
+    },
+    {
+      "name": "网友自拍",
+      "type": "movie",
+      "query": "网友自拍"
+    },
     {
       "name": "动漫",
       "type": "tv",
