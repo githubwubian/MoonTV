@@ -154,8 +154,8 @@
     "www.ryzyw.com": {
       "name": "🎬如意资源",
       "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com",
-      ,
+      "detail": "https://www.ryzyw.com"
+    },
     "91md.me": {
       "name": "🔞麻豆视频",
       "api": "https://91md.me/api.php/provide/vod",
@@ -288,3 +288,4 @@
     }
   }
 }
+
